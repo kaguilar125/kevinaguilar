@@ -24,6 +24,11 @@ div[class^="col"]{
 }
 
 /* END OF FIRST GRID */
+#grid2 div[class^='col']{
+    background-color: #92AD82;
+    border: 3px solid white;
+    min-height: 75px;
+}
 
 #box2 {
     height: 15%;
